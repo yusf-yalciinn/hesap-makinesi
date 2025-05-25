@@ -1,6 +1,6 @@
 # Hesap Makinesi Projesi
 
-Bu proje, Python ve PyQt5 kullanılarak hazırlanmış basit bir hesap makinesi uygulamasıdır.
+Bu proje, 2021 yılında Python ile arayüz geliştirmeyi öğrenme aşamasında yaptığım Python ve PyQt5 kullanılarak hazırlanmış basit bir hesap makinesi uygulamasıdır.
 
 ## Gereksinimler
 
